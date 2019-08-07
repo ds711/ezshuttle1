@@ -31,7 +31,7 @@ input:hover{ /* hover means when cursor is on d button*/
 
 
 #container{
-  width: 500px;
+  width: 400px;
   margin: auto;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -46,6 +46,8 @@ input:hover{ /* hover means when cursor is on d button*/
 /* mobile version, can choose not to put */
 @media (max-width:640px){
   #container{
+    width: 600px;
+    length: 500px;
     margin-top: 50px;
     margin-bottom: 50px;
   }
